@@ -8,8 +8,9 @@ This is an itinerary builder which makes use of the GPT-4 API. It will return an
 
 To install the necessary libraries, download the `requirements.txt` file and run the following command in your terminal or command prompt:
 
-```bash
+\```bash
 pip install -r requirements.txt
+\```
 
 This will install all the required packages for the project.
 
